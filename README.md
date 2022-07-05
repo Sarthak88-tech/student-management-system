@@ -1,6 +1,6 @@
 # Student management system project using python & MySQL
 It is a python based project and developed by using python tkinter library and file handling. Student management system can handle all the details about a student. The details include student personal details, Academic details etc.
-# Libraries used: 
+# Libraries used:-
 1) Python tkinter 
 2) messagebox 
 3) ttk 
@@ -23,7 +23,7 @@ This project provides easy management of student records also It is very easy to
 
 ➢ PyCharm community edition
 
-# Future scope: 
+# Future scope:- 
 
 ➢ The project can be updated as and when required to introduce new features.
 
